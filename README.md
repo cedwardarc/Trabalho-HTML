@@ -1,20 +1,48 @@
-# Trabalho-HTML1
-
-<!DOCTYPE html>
 <html>
-    <head>
-        <title>Vanitas no carte</title>
-    </head>
-    <body>
-       <h1>O livro de Vanitas</h1>
-       <p>O livro de Vanitas e um livro com uma extensa lista de magias do clan da lua azul.</p>
-       <h2>O livro foi criado por Vanitas o primeiro e unico vampiro nacido em uma noite de lua azul.</h2>
-       <h1>A historia do vampiro <br> Vanitas</h1>
-       <h3>a criação do livro</h3>
-       <h3>suas magias</h3>
-       <h3>sua função</h3>
-       <h2>Mas hoje em dia o livro esta sobre posse de um umano que foi ajudado por Vanitas que agora assumiu seu nome.</h2>
-       <h1>A historia do humano Vanitas</h1>
+<head>
+    <title>aula</title>
+</head>
+<body>
+    <style>
+        body{
+            
+        }
 
-    </body>
+    </style>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#hb">HOBBIES</a></li>
+                <li><a href="#rt">Rotina</a></li>
+                <li><a href="#links">link1</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <div id="hb">
+        <ul>
+            <h1>HOBBIES</h1>
+            <li><p>Assistir RWBY</p></li>
+            <img style="width: 10%;" src="https://i.pinimg.com/originals/6e/1f/d2/6e1fd2782f76de2a8af1346c78d290f9.jpg" alt="RWBY V7 poster">
+            <li><p>Ler mangá</p></li>
+            <img src="" alt="">
+        </ul>
+    </div>
+    <div id="rt">
+        <ol>
+            <h1>Rotina</h1>
+            <li><p>Acordar</p></li>
+        </ol>
+    </div>
+    <div id="links">
+        <ul>
+            <li><a href="pag2.html">outra página</a></li>
+        </ul>
+    </div>
+    <div id="links2">
+        <ul>
+            <li><a href="">amda</a></li>
+        </ul>
+    </div>
+</body>
 </html>

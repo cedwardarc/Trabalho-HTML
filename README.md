@@ -15,6 +15,7 @@
                 <li><a href="#hb">HOBBIES</a></li>
                 <li><a href="#rt">Rotina</a></li>
                 <li><a href="#links">link1</a></li>
+                <li><a href="#links2">link2</a></li>
 
             </ul>
         </nav>
@@ -32,6 +33,7 @@
             <img style="width: 10%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnphhNqV0s9MG23Nnbpt7K0jueOCWI9z6vQ&usqp=CAU" alt="jogo ruim">
             <li><p>Criar historias</p></li>
             <img style="width: 10%;" src="https://i.ytimg.com/vi/XS-N8KfZ5EU/maxresdefault.jpg" alt="imagination">
+            <p>piada kkk</p>
             <li><p>Assistir animações no geral</p></li>
             <img style="width: 10%;" src="https://pipocasclub.com.br/wp-content/uploads/2020/07/o-pr%C3%ADncipe-drag%C3%A3o.png"alt="principe dragão">
         </ul>
@@ -50,13 +52,15 @@
     </div>
     <div id="links">
         <ul>
-            <li><a href="pag2.html">outra página</a></li>
+            <li><a href="pag2.html">Outra página</a></li>
         </ul>
     </div>
     <div id="links2">
         <ul>
-            <li><a href="">amda</a></li>
+            <li><a href="https://www.rwbybrasil.com">RWBY Brasil</a></li>
+            <li><a href="https://github.com/fboldt">Com quem eu aprendi a fazer um site</a></li>
         </ul>
     </div>
 </body>
 </html>
+

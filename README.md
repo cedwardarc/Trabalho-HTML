@@ -34,8 +34,6 @@
             <li><p>Criar historias</p></li>
             <img style="width: 10%;" src="https://i.ytimg.com/vi/XS-N8KfZ5EU/maxresdefault.jpg" alt="imagination">
             <p>piada kkk</p>
-            <li><p>Assistir animações no geral</p></li>
-            <img style="width: 10%;" src="https://images-na.ssl-images-amazon.com/images/I/91GXWbLwKbL.jpg"alt="principe dragão">
         </ul>
     </div>
     <div id="rt">

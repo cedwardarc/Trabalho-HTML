@@ -4,11 +4,36 @@
 </head>
 <body>
     <style>
-        a{
+        #hb ul{
+            color: darkgray;
+            list-style-type: disc;
+        }
+        #rt ol h1{
+            text-align: center;
+        }
+        #hb ul h1{
+            text-align: center;
+        }
+        #hb ul{
+            color: darkgray;
+            list-style-type: square;
+        }
+        a:link{
             text-decoration: none;
         }
+        a:visited{
+            color: rgb(255, 5, 5);
+        }
+        a:hover{
+            color: blue;
+        }
+        a:active{
+            color: black;
+        }
         body{
-
+            background-image: url("");
+            background-size: 100%;
+            background-repeat: no-repeat;
         }
 
     </style>

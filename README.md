@@ -79,7 +79,7 @@
     </div>
     <div id="links">
         <ul>
-            <li><a href="pag2.html">Outra página</a></li>
+            <li><a href="outro site">Outra página</a></li>
         </ul>
     </div>
     <div id="links2">

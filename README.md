@@ -24,18 +24,18 @@
         <ul>
             <h1>HOBBIES</h1>
             <li><p>Assistir RWBY</p></li>
-            <img style="width: 20%;" src="https://i.pinimg.com/originals/6e/1f/d2/6e1fd2782f76de2a8af1346c78d290f9.jpg" alt="RWBY V7 poster">
+            <img style="width: 10%;" src="https://i.pinimg.com/originals/6e/1f/d2/6e1fd2782f76de2a8af1346c78d290f9.jpg" alt="RWBY V7 poster">
             <li><p>Ler</p></li>
-            <img style="width: 20%;" src="https://images-na.ssl-images-amazon.com/images/I/51Qyj-tfh8L._SX341_BO1,204,203,200_.jpg" alt="Vagabond">
+            <img style="width: 10%;" src="https://images-na.ssl-images-amazon.com/images/I/51Qyj-tfh8L._SX341_BO1,204,203,200_.jpg" alt="Vagabond">
             <li><p>Jogar RPG</p></li>
-            <img style="width: 20%;" src="https://i1.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/03/8-itens-que-todo-mestre-de-rpg-gostaria-de-ter-nerdizmo-capa.jpg?fit=950%2C500&ssl=1&resize=1280%2C720" alt="RPG">
+            <img style="width: 10%;" src="https://i1.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/03/8-itens-que-todo-mestre-de-rpg-gostaria-de-ter-nerdizmo-capa.jpg?fit=950%2C500&ssl=1&resize=1280%2C720" alt="RPG">
             <li><p>Jogar com meus amigos</p></li>
-            <img style="width: 20%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnphhNqV0s9MG23Nnbpt7K0jueOCWI9z6vQ&usqp=CAU" alt="jogo ruim">
+            <img style="width: 10%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnphhNqV0s9MG23Nnbpt7K0jueOCWI9z6vQ&usqp=CAU" alt="jogo ruim">
             <li><p>Criar historias</p></li>
-            <img style="width: 20%;" src="https://i.ytimg.com/vi/XS-N8KfZ5EU/maxresdefault.jpg" alt="imagination">
+            <img style="width: 10%;" src="https://i.ytimg.com/vi/XS-N8KfZ5EU/maxresdefault.jpg" alt="imagination">
             <p>piada kkk</p>
             <li><p>Assistir animações no geral</p></li>
-            <img style="width: 20%;" src="https://pipocasclub.com.br/wp-content/uploads/2020/07/o-pr%C3%ADncipe-drag%C3%A3o.png"alt="principe dragão">
+            <img style="width: 10%;" src="https://pipocasclub.com.br/wp-content/uploads/2020/07/o-pr%C3%ADncipe-drag%C3%A3o.png"alt="principe dragão">
         </ul>
     </div>
     <div id="rt">

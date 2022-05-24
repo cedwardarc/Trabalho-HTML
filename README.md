@@ -62,7 +62,7 @@
             <img style="width: 10%;" src="https://i.ytimg.com/vi/XS-N8KfZ5EU/maxresdefault.jpg" alt="imagination">
             <p>piada kkk</p>
             <li><p>Assistir animações no geral</p></li>
-            <img " src="https://rollingstone.uol.com.br/media/_versions/avatar-a-lenda-de-aang-reproducao_widelg.jpg"alt="avatar">
+            <img style="width: 10%; " src="https://rollingstone.uol.com.br/media/_versions/avatar-a-lenda-de-aang-reproducao_widelg.jpg"alt="avatar">
         </ul>
     </div>
     <div id="rt">

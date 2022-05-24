@@ -31,9 +31,8 @@
             color: black;
         }
         body{
-            background-image: url("");
+            background-image: url("https://2f4u.fansubs.com.br/wp-content/uploads/2017/07/site-background.jpg");
             background-size: 100%;
-            background-repeat: no-repeat;
         }
 
     </style>

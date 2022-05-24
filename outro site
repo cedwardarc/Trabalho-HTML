@@ -1,6 +1,26 @@
-<h1>outra página</h1>
-<div>
-    <ul>
-        <li><a href="README.md">página anterior</a></li>
-    </ul>
-</div>
+<html>
+<head>
+    <title>Outra página</title>
+</head>
+<body>
+    <style>
+        a:link{
+            text-decoration: none;
+        }
+        a:visited{
+            color: rgb(255, 5, 5);
+        }
+        a:hover{
+            color: blue;
+        }
+        a:active{
+            color: black;
+    </style>
+    <h1>outra página</h1>
+    <div>
+        <ul>
+            <li><a href="site.html">página anterior</a></li>
+        </ul>
+    </div>
+</body>
+</html>
